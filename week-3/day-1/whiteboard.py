@@ -25,3 +25,10 @@ while True:
         print(f"you can {solution(input_age)}")
         break 
 
+
+
+n=12385
+m=list(map(int, str(n)))
+print(m)
+mm=m[::-1]
+print(mm)
